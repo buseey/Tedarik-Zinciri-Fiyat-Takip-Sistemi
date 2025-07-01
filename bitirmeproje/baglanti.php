@@ -3,8 +3,8 @@ error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
 $servername = "localhost";
-$username = "foodtrac_foodtrackingsystem";
-$password = "8gK^qL7&qQWp";
+$username = "KENDI_KULLANICI_ADINIZI_BURAYA_YAZIN";
+$password = "SIFRENIZI_BURAYA_YAZIN";
 $database =  "foodtrac_foodtrackingsystem";
 
 
