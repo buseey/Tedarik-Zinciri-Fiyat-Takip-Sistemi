@@ -1,4 +1,4 @@
-#  Tedarik Zinciri Gıda Fiyat Takip Sistemi
+#  Tedarik Zincirinde Gıda Fiyat Takip Sistemi
 
 Bu proje, gıda ürünlerinin fiyat artışlarını izlemek ve tedarik zinciri boyunca şeffaflık sağlamak amacıyla geliştirilmiştir. QR kod teknolojisi ile ürünlerin fiyat geçmişine erişim sağlanır, TÜFE oranlarına göre fiyat artışları kontrol edilerek kullanıcılar gerekli durumları ihbar edebilir.
 
